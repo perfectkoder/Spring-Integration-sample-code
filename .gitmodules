@@ -1,0 +1,18 @@
+[submodule "Spring-Integration-Sample-01"]
+	path = Spring-Integration-Sample-01
+	url = https://github.com/perfectkoder/Spring-Integration-Sample-01
+[submodule "Spring-Integration-Sample-02"]
+	path = Spring-Integration-Sample-02
+	url = https://github.com/perfectkoder/Spring-Integration-Sample-02
+[submodule "Spring-Integration-Sample-03"]
+	path = Spring-Integration-Sample-03
+	url = https://github.com/perfectkoder/Spring-Integration-Sample-03
+[submodule "Spring-Integration-Sample-04"]
+	path = Spring-Integration-Sample-04
+	url = https://github.com/perfectkoder/Spring-Integration-Sample-04
+[submodule "Spring-Integration-Sample-05"]
+	path = Spring-Integration-Sample-05
+	url = https://github.com/perfectkoder/Spring-Integration-Sample-05
+[submodule "Spring-Integration-Sample-06"]
+	path = Spring-Integration-Sample-06
+	url = https://github.com/perfectkoder/Spring-Integration-Sample-06
